@@ -27,15 +27,6 @@ It encrypts the vault directly in the browser before saving it to `localStorage`
 - **Encrypted backup export/import**
 - **Responsive modern UI** with animations
 
-## Why this project is good for a portfolio
-
-This project demonstrates:
-- building a polished product UI with **Next.js + React**
-- handling **client-side state** cleanly
-- using the **Web Crypto API** for real encryption logic
-- managing **local persistence** securely enough for demo use
-- structuring a project into reusable components and utility files
-- thinking about user experience with auto-lock, copy actions, and feedback toasts
 
 ## Tech Stack
 
